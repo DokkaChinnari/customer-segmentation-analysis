@@ -57,7 +57,7 @@ The following preprocessing steps were performed:
 * Verified numeric and categorical fields
 * Prepared the dataset for visualization
 
-## 📊 Dashboard 1: Customer Overview
+## 📊 Dashboard : Customer Overview
 
 The first dashboard provides an overview of the customer base.
 
@@ -129,10 +129,12 @@ Additional dashboards will be developed to analyze:
 
 **Chinnari Dokka**
 
-B.Tech – Artificial Intelligence & Machine Learning
+B.Tech - Artificial Intelligence & Machine Learning
 
-## ⭐ Project Status
+Passionate about Data Analytics, Power BI, SQL, Python, and Machine Learning.
 
-**Dashboard 1 – Completed**
+GitHub: https://github.com/DokkaChinnari
 
-More dashboards will be added as the project progresses.
+LinkedIn: https://www.linkedin.com/in/dokka-chinnari-aiml/
+##
+⭐ If you found this project helpful, consider giving it a star.
