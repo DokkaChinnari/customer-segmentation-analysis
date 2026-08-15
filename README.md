@@ -87,7 +87,7 @@ The dashboard includes filters for:
 
 ## 📸 Dashboard Preview
 
-![Customer Overview Dashboard](Customer dashboard.png)
+<img src="./Customer dashboard.png" alt="Customer Overview Dashboard">
 
 ## 💡 Key Insights
 
